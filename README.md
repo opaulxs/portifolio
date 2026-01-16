@@ -1,6 +1,6 @@
 # Portfólio - Java & Backend Developer
 
-Portfólio profissional minimalista e moderno para desenvolvedor backend especializado em Java e Spring Boot.
+Portfólio profissional minimalista e moderno para desenvolvedor backend especializado em CSS HTML E JAVASCRIPT.
 
 ## 🎨 Design
 
@@ -18,3 +18,4 @@ portifolio-java/
 ├── script.js       # Interatividade e animações
 └── README.md       # Documentação
 ```
+
